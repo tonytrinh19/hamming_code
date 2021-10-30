@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/ascii2hamming.dir/common.c.o CMakeFiles/ascii2hamming.dir/ascii2hamming.c.o -o ascii2hamming   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib: -lm /usr/local/lib/libdc_error.so /usr/local/lib/libdc_posix.so /usr/local/lib/libdc_util.so /usr/local/lib/libdc_fsm.so /usr/local/lib/libdc_application.so 

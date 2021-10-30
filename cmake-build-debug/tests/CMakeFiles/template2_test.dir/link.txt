@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/template2_test.dir/main.c.o CMakeFiles/template2_test.dir/__/src/common.c.o -o template2_test  -Wl,-rpath,/usr/local/lib /usr/local/lib/libcgreen.so /usr/local/lib/libdc_error.so /usr/local/lib/libdc_posix.so 
